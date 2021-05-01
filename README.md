@@ -87,7 +87,9 @@ Bibliotecas:
    drive: **[DRIVE](https://drive.google.com/file/d/1NotnvvAn5oZoMbSqV52KMKl6sLm2D_6G/view?usp=sharing)**
    
   </p>
+  
    ```
+   
    É só utilizar montar o google drive em seu Colab, e acessar o link 😉
    
    ```
