@@ -46,9 +46,10 @@
 
    <p>
 
--   Linguagem: **[PYTHON](https://www.python.org)**
+Linguagem: 
+-   **[PYTHON](https://www.python.org)**
    
--   Bibliotecas: 
+Bibliotecas: 
 -   **[SKLEARN](https://scikit-learn.org/stable/)**
 -   **[PANDAS](https://pandas.pydata.org)**
 -   **[NUMPY](https://numpy.org)**
