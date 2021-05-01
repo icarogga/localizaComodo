@@ -90,7 +90,7 @@ Bibliotecas:
   
    ```
    
-   É só utilizar montar o google drive em seu Colab, e acessar o link 😉
+   É só montar o google drive em seu Colab, e acessar o link 😉
    
    ```
 
