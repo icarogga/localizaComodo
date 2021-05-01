@@ -53,7 +53,7 @@ Bibliotecas:
 -   **[SKLEARN](https://scikit-learn.org/stable/)**
 -   **[PANDAS](https://pandas.pydata.org)**
 -   **[NUMPY](https://numpy.org)**
--   **[os](https://docs.python.org/3/library/os.html)**
+-   **[OS](https://docs.python.org/3/library/os.html)**
 
    </p>
 
