@@ -49,7 +49,6 @@
 -   Linguagem: **[PYTHON](https://www.python.org)**
    
 -   Bibliotecas: 
--   
 -   **[SKLEARN](https://scikit-learn.org/stable/)**
 -   **[PANDAS](https://pandas.pydata.org)**
 -   **[NUMPY](https://numpy.org)**
